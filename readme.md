@@ -1,6 +1,6 @@
 ## Perfect World Web
 
-**Note:** This project is no longer supported, however I will still look at pull requests if you'd like to attempt a fix.
+**Note:** This project is forked from https://github.com/tomirons/pw-web. I will provide my own updates to this project. credits to Tomiron for the successful development of this Panel.
 
 ### Requirements
 1. Composer & Git - [Complete steps 1 & 2 on this tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-14-04)
@@ -68,5 +68,3 @@ php artisan key:generate
 **Note:** If you receive a 500 error after installation, redo the permissions again.
 
 If you receive any other errors please create an [issue](https://github.com/huludini/pw-web/issues).
-
-**Note:** This project is no longer supported, however I will still look at pull requests if you'd like to attempt a fix.
